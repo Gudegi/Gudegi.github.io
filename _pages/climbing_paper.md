@@ -1,5 +1,5 @@
 ---
-permalink: /test/
+permalink: /Learning_Climbing_Controllers
 ---
 
 <html>
@@ -9,7 +9,7 @@ permalink: /test/
         content="Deformable Neural Radiance Fields creates free-viewpoint portraits (nerfies) from casually captured videos.">
   <meta name="keywords" content="Nerfies, D-NeRF, NeRF">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Nerfies: Deformable Neural Radiance Fields</title>
+  <title>Learning Climbing Controllers for Physics-Based Characters</title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
