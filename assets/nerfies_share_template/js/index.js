@@ -2,7 +2,8 @@ window.HELP_IMPROVE_VIDEOJS = false;
 
 // var INTERP_BASE = "./static/interpolation/stacked";
 var INTERP_BASE = "../assets/nerfies_template/interpolation/stacked";
-var NUM_INTERP_FRAMES = 240;
+//var NUM_INTERP_FRAMES = 240;
+var NUM_INTERP_FRAMES = 0; // dont interpolate
 
 var interp_images = [];
 function preloadInterpolationImages() {

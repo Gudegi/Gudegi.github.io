@@ -35,7 +35,8 @@ permalink: /publications/Learning_Climbing_Controllers
   <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   <link rel="stylesheet" href="../assets/nerfies_share_template/css/index.css">
-  <link rel="icon" href="../assets/nerfies_share_template/images/favicon.svg"> <!-- use differnt favicon if want -->
+  <!--<link rel="icon" href="../assets/nerfies_share_template/images/favicon.svg"> -->
+  <link rel="icon" href="../assets/img/kw_favicon_io/favicon-16x16.png">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script defer src="../assets/nerfies_share_template/js/fontawesome.all.min.js"></script>
